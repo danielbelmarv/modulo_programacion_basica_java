@@ -1,0 +1,31 @@
+Ejercicio 1: Crear un algoritmo para preparar un completo. Luego identificar las entradas, procesos y salidas. 
+
+ALGORITMO: Preparar un completo:
+1.	Buscar un pan de hot-dog.
+2.	Buscar una vienesa. 
+3.	Buscar una palta.
+4.	Buscar un tomate.
+5.	Buscar una mayonesa. 
+6.	Buscar un tenedor.
+7.	Buscar un cuchillo. 
+8.	Buscar una cuchara. 
+9.	Buscar una olla.
+10.	Encender el fuego de un quemador.
+11.	Poner la olla con agua sobre el quemador. 
+12.	Poner a hervir la vienesa al interior de la olla.
+13.	Emplear el cuchillo para picar el tomate.
+14.	Emplear el cuchillo y la cuchara para extraer la palta de su cascara. 
+15.	Emplear el tenedor para moler la palta. 
+16.	Emplear el cuchillo para abrir el pan de hot-dog.
+17.	Poner la vienesa hervida al interior del pan de hot-dog.
+18.	Emplear la cuchara para poner el tomate sobre el hot-dog.
+19.	Emplear el tenedor para poner la palta sobre el tomate. 
+20.	Poner la mayo sobre la palta. 
+
+Partes de ese algoritmo:
+ENTRADAS: pan de ho-dog, vienesa, palta, tomate, mayonesa, tenedor, cuchillo, cuachara, olla. 
+PROCESO: Encender el fuego de un quemador, poner la olla con agua sobre el quemador, 
+poner a hervir la vienesa al interior de la olla, picar el tomate, extraer la palta de su cascara
+moler la palta, abrir el pan de hot-dog, poner la vienesa hervida al interior del pan de hot-dog, poner el tomate sobre el hot-dog, poner la palta sobre el tomate, poner la mayor sobre la palta.
+SALIDA: Un completo italiano.
+ 
