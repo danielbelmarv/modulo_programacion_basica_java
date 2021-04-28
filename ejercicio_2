@@ -1,0 +1,25 @@
+Ejercicio 2: Crear un algoritmo para cambiar la rueda de un vehículo. Luego identificar las entradas, procesos y salidas. 
+
+ALGORITMO: Cambiar la rueda de un vehículo:
+1.	Buscar una llave de cruz.
+2.	Buscar una gata hidráulica.
+3.	Buscar una rueda de repuesto.
+4.	Buscar una rueda dañada.
+5.	Buscar pernos de rueda.
+6.	Activar luces de emergencia.
+7.	Con la llave de cruz, girar contra las manillas del reloj para sacar los pernos.
+8.	Colocar la gata hidráulica bajo el auto.
+9.	Levantar el auto utilizando la gata hidráulica.
+10.	Remover los pernos de la rueda dañada.
+11.	Sacar la rueda dañada.
+12.	Colocar la rueda de repuesto en el sitio de la que estaba dañada.
+13.	Con la llave de cruz ajustar los pernos.
+14.	Usar la gata hidráulica para bajar el auto.
+15.	Guardar la llave de cruz, la gata hidráulica, la rueda de repuesto, la rueda dañada y los pernos de rueda en la caja de herramientas. 
+
+Entrada: Llave de cruz, gata hidráulica, rueda de repuesto, rueda dañada, pernos de rueda.
+
+Proceso: Buscar cada una de las herramientas, activar luces de emergencia, con la llave de cruz girar contra las manillas del reloj para sacar los pernos, colocar la gata hidráulica bajo el auto, levantar el auto utilizando la gata hidráulica, con la llave de cruz, girar contra las manillas del reloj, remover los pernos de la rueda dañada, sacar la rueda dañada, colocar la rueda de repuesto en el sitio de la que estaba dañada, con la llave de cruz ajustar los pernos, usar la gata hidráulica para bajar el auto.
+
+Salida: La rueda del vehículo ha sido reemplazada por una sin daños. 
+
