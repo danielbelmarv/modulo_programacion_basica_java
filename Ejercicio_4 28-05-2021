@@ -1,0 +1,27 @@
+28/05/2021
+
+Ejercicio 4: Crear un algoritmo que permita realizar una compra online. Identificar las entradas, procesos, salidas, variables, constantes y tipos de datos.
+
+Entradas: Producto, precio, medio de pago, direccion, nombre, rut.  
+
+Variables:
+
+Producto = str
+Precio = int
+carrito = (sumatoria_productos)
+Medio_pago = str
+direccion = str
+nombre-cliente = str
+rut_cliente = str
+
+Procesos: 
+Seleccionar productos.
+Ir al Carrito 
+Calcular el total de la compra: (precio_producto*cantidad)
+Ingresar direccion. 
+Ingresar nombre. 
+Ingresar rut.
+Seleccionar el medio de pago.
+Pagar el producto.
+
+Salida = Compra realizada. 
