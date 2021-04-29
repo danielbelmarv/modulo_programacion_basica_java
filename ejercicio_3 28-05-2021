@@ -1,0 +1,14 @@
+Ejercicio 3: Crear  un algoritmo que permita calcular el rendimiento del combustible de un vehiculo en Km/Lt, identificar las entradas, procesos, salidas, variable y constantes. 
+
+Entrada: km_recorridos, lt_consumidos 
+
+Variables: 
+
+km_recorridos = float
+lt_consumidos = float
+rendimiento = float
+
+Proceso : 
+Rendimiento = km_recorridos/lt_consumidos
+
+Salida: rendimiento en km/lt
