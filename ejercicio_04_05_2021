@@ -1,0 +1,44 @@
+FUNCION: En programación, una función es una sección de un programa que calcula un valor de manera independiente al resto del programa. Ademas de realizar una funcion, retorna un valor a quien sea que llame a esa funcion. 
+
+Una función tiene tres componentes importantes:
+
+I Los parámetros, que son los valores que recibe la función como entrada.
+
+II El código de la función, que son las operaciones que hace la función.
+
+III El resultado (o valor de retorno), que es el valor final que entrega la función.
+
+En esencia, una función es un mini programa. Sus tres componentes son análogos a la entrada, el proceso y la salida de un programa.
+
+Una funcion efectua una accion especifica dentro de un algoritmo. 
+
+EJEMPLO:
+
+public static boolean verificadorPassword(String password) 
+{boolean status;
+if (password.length() >= 8) {
+System.out.println("Es una clave segura de más de 8 caracteres, posee " + password.length() + " caracteres");
+status = true;
+}
+else {
+System.out.println("Es una clave insegura, posee menos de 8 caracteres");
+status = false;
+}
+return status;
+}
+
+Las funciones en Python son creadas mediante la sentencia def:
+
+def nombre(parámetros):
+    # código de la función
+
+Los parámetros son variables en las que quedan almacenados los valores de entrada.
+
+La función contiene código igual al de cualquier programa. La diferencia es que, al terminar, debe entregar su resultado usando la sentencia return.
+ 
+PROCEDIMIENTO: Es un bloque de codigo individual que esta enfocado en efectuar una accion en especifico, sin retorno de valor. 
+
+private void limpiar()
+txtResultado.setText(null);
+txtNumero1.setText(null);
+txtNumero2.setText(null);
