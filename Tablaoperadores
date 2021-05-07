@@ -1,0 +1,45 @@
+Tipo de Operador	Descripcion	Operadores	Ejemplos	Resultados Ejemplos
+Operadores Aritmeticos	"Permiten realizar operaciones matematicas
+Se utilizan entre dos literales o variables y el resultado."	"(+) Operador de suma
+(-) Operador de resta
+(*) Operador de Multiplicacion
+(/) Operador de Division
+(%) Resto de division entera"	"5 +5 
+6 - 3
+3 * 3
+16 / 2
+10 / 3"	"10
+3
+9
+8
+1"
+Operador de Asignacion	Permite asignar un valor a una variable	(=) Es solo uno y se lee "Igual".	X = 8	X igual 8
+Operadores Relacionales	Permite comparar el contenido de una variable con otra atendiendo a si son variable con un valor igual o distinto o bien si los valores son mayores o menores.	"(==) Igual a
+(!=) No igual a
+(>) Mayor que
+(<) Menor que
+(<=) Menor o igual que
+(>=) Mayor o igual que"	"8 == 16
+X != Y
+10 > 5
+10 < 5
+20 <= 20
+100 >= 10"	"FALSE
+TRUE
+TRUE
+FALSE
+TRUE
+TRUE"
+Operadores de Incremento	Los Operadores de incremento y decremento son operadores unarios que agregan o sustraen uno de sus operandos.	"(++)
+(--)"	"(5++)
+(5--)"	"6
+4"
+Operadores Logicos o Booleanos	Evalúan una expresión en la que están implicados uno o dos operandos con valor de  booleano. Retornan como resultando un valor lógico, que será true si la evaluación de la expresión es cierta o false en caso contrario.	"(!) Negacion NOT
+(&) Producto Logico
+(&&) Producto Logico con cortocircuito
+
+"	"! False
+True & False
+False && True"	"TRUE
+FALSE
+FALSE"
