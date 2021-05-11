@@ -1,0 +1,79 @@
+Actividad: Definir proyecto de JAVA
+
+Nombre Proyecto: “APP MI Minimarket”
+
+Objetivos del proyecto: A través de la App MI MINIMARKET, el dueño de un Minimarket puede administrar de manera armoniosa y en tiempo real todos los aspectos relacionados con el funcionamiento de un Minimarket, de paso ofreciendole una experiencia innovadora y satisfactoria a sus clientes.
+
+Rol de la aplicación:  La administración de un Minimarket la mayor parte de las veces esta a cargo de 1 o 2 personas que tienen que cumplir una gran cantidad de funciones, a menudo teniendo dificultades tanto para optimizar su tiempo como para entregarle a sus clientes un experiencia satisfactoria. Por eso necesitan de un “software de gestión” pensado especialmente en la administración de este tipo de negocios; que integre no solo las funciones basicas, si no que tambien nuevos elementos que le permitan al administrador tener un Minimarket bien administrado que le ofrezca una experiencia superior a su clientela.
+
+Las Cuatro versiones de la APP Mi Minimarket
+
+La App Mi Minimarket tiene cuatro versiones, cada una de las cuales se adapta a distintas necesidades del usuario. Estas cuatro versiones son:
+
+I VERSION COMPLETA: Esta version incluye la App Mi Minimarket para su uso en un PC y dispositivos moviles, incorporando la funcionalidad completa de “Compra en pantallas touch”. Esta pensada en quienes quieren automatizar la mayor cantidad de procesos posibles en la gestión de su local. 
+
+II VERSION DESKTOP: Esta version incluye la App Mi Minimarket para su uso en un PC y dispositivos moviles; pero sin la funcionalidad de “Compra en pantalla Touch”. Esta pensada en quienes quieren simplificar la gestion de su local, pero manteniendo un estilo de funcionamiento más tradicional. 
+
+III VERSION MOVIL: Esta versión solo incluye la App Mi Minimarket para su uso en dispositivos moviles. Esta pensada en quienes quieren manejar todo desde su telefono y/o cambian con frecuencia el lugar en que se encuentran. 
+
+IV VERSION MOVIL PARA CLIENTES: Esta es la única versión que puede ser descargada por “una persona cualquiera” que no pertenezca a la administración de una empresa de Minimarket. Se encuentra enfocada en las cadenas de Minimarkets que tienen varios locales en una misma ciudad y, sirve tanto para guiar a los clientes hacia el local más cercano, como para avisarle sobre la existencia de un producto o promoción especifica. 
+
+¿Cuáles son las funciones de la App Mi Minimarket?
+
+La APP “Mi Minimarket” posee las siguientes funciones: 
+
+1.	Auto Completar: Esta función consiste en una “barra de busqueda” en que cuando el usuario comienza a escribir el nombre de un producto, de inmediato le aparece una lista con los productos que comienzan por las letras que ha ingresado, junto a una foto, precio, codigo de barra y datos de inventario en tiempo real sobre el stock actual del prodcuto. Resulta extremadamente útil para efectuar consultas simples o el encargo de productos a los proveedores.  
+
+2.	Item Scanner: Empleando la App desde un Smartphone se pueden “escanear” los productos ya sea a traves de un codigo de barra tradicional o una imagen QR. Este Scanner se puede usar tanto en modo de “consulta de precio” como en modo “sumatoria”. Al emplear el Item scanner en modo de summatoria, existe la opción de pasar a la función de “emisión de boletas” o “emisión de facturas”. 
+
+3.	Ingreso directo de mercaderia: Sin necesidad de emplear la función de Scanner, el administrador puede ingresar y sumar directamente la mercadería a la App, ya sea con la intención de efectuar una mera consulta o de emitir boletas o facturas. 
+
+4.	Emisión de boletas: Ya sea a traves del Scanner o el “ingreso directo de mercaderia”, la App da la opción de “emitir boletas”. Estas tienen plena validez ante el Servicio de Impuestos Internos y pueden ser impresas tanto en una impresora convencional como en una impresora inalambrica.
+
+5.	Emisión de facturas: Ya sea a traves del Scanner o el “ingreso directo de mercaderia”, la App da la opción de “emitir facturas”. Estas tienen plena validez ante el Servicio de Impuestos Internos y pueden ser impresas tanto en una impresora convencional como en una impresora inalambrica.
+
+6.	Impresión a distancia: La APP puede sincronizarse tanto con impresoras ubicadas en una red bluetootht o wifi cercana, como con una impresora ubicada a distancia. 
+
+7.	Inventario en tiempo real: En el Menu “Inventario” se puede tener un registro electronico en tiempo real de todo el inventario de uno o más locales, incluyendo lo que pueda estar almacenado en una bodega. En el momento en que se emite una factura/boleta, esos productos se descuentan automaticamente del registro de inventario. 
+
+8.	Registro de inventario “a un solo Scan”: Para el administrador de un Minimarket, la tarea de ingresar en “forma manual y uno a uno” los productos que trae un proveedor al local, puede llegar a ser un proceso muy largo y tedioso. Para facilitar esta tarea, la App “MI MINIMARKET” ofrece un sistema en el cual tan solo “scaneando” una factura de un proveedor, todos los items incluidos en esta factura quedan registrados en el inventario. 
+
+
+9.	Generacion de “alertas de inventario”: Uno de los principales problemas que enfrenta el administrador de un Minimarket consiste en las deficiencias que puede presentar la cadena logistica. Para evitar que se produzca el nefasto “quiebre” de productos, la App “MI MINIMARKET” incorpora un sistema de “alertas de inventario”. En ellas, la App le avisa al usuario que posee una cantidad “reducida” o “critica” de cierta mercadería, recomendando su pronta reposición. 
+
+10.	Recepción de pedidos: El administrador puede emplear esta función ya sea para recepcionar y/o despachar pedidos de sus proveedores.
+
+11.	Generación de “alertas diarias y especiales” para los clientes frecuentes: La función de mensajería incluye la opción de “alertas automatizadas” ya sea para todos o solo algunos clientes. A modo de ejemplo, se puede programar que todos los días se le envíen a los clientes alertas del tipo “Pan recién salido del horno”, así como también una alerta de “Ha llegado el Pan sin gluten” para un cliente que usualmente compra grandes cantidades de “Pan sin gluten”. Esta función, se puede utilizar como parte de la “versión móvil para clientes”. El cliente recibe el mensaje como parte de la funcionalidad “Mis Alertas”.  
+
+12.	Contabilidad diaria, mensual y anual en tiempo real: La App ofrece un sistema de contabilidad sincronizado con el Servicio de Impuestos Internos que permite efectuar la contabilidad diaria, generar informes anuales e incluso sugerir una declaración anual de impuestos. Esta función le ahorra una gran cantidad de tiempo al administrador e incluso facilita la labor del contador. 
+
+13.	Ingreso de facturas: Para llevar una contabilidad ordenada del local, la App ofrece la opción de ingresar facturas “a un solo scan”, scaneando directamente el codigo de barra de la factura. 
+
+14.	Balance de gastos, entradas y utilidades estimadas: Considerando lo demandante que puede llegar a ser la administración de un Minimarket, la App ofrece un balance entre los gastos (Obtenido a partir de las facturas ingresadas), las entradas (A traves de las ventas declaradas); llegando incluso a realizar una estimación de las utilidades que podría obtener el local. Esta función puede llegar a ahorrarle una gran cantidad de tiempo al administrador. 
+
+15.	Auditorias Xpress de caja: Uno de los principales problemas de los Minimarkets consiste en el robo interno. Para reducir al minimo esta posibilidad, la App tiene una funcion con la cual el administrador puede emplear la información en tiempo real que tiene sobre el flujo de caja, para efectuar una “auditoria Xpress” en cualquier momento en que visite el local. 
+
+16.	Libro de sugerencias electronico: La App “Mi Minimarket” pone un especial énfasis en la experiencia que tengan los clientes con el local. Por ello, existe un “libro de sugerencia electrónico” que los clientes pueden rellenar desde su Smartphone. Esta función puede agrupar las sugerencias de varios locales de una cadena, facilitándole al administrador la recepción de las sugerencias y/o reclamos de los clientes.
+
+17.	Comparación online de precios sugeridos: La App posee un banco de datos permanentemente actualizado sobre los precios de referencia de venta a publico de la mayor parte de los productos comunmente vendidos en los Minimarket. El administrador puede utilizar en cualquier momento esta funcionalidad, con la intención de hacerse una idea sobre cual sería el precio apropiado para vender una mercadería que recién esta incorporando. 
+
+18.	Sistema de compra basado en Pantallas Tactiles: Esta funcionalidad, permite que el cliente que ingresa al Minimarket, pueda efectuar la compra “tocando” pantallas tactiles en que se muestran los productos. Esta función automatiza y simplifica de manera considerable la gestión del Minimarket. 
+
+19.	Sistema de “Notas Dinamicas”: En la administración diaria de un Minimarket se alternan una serie de turnos y en el caso de cadenas, son docenas las personas que intervienen en la operación diaria junto a las que efectuan laborales de gerencia y supervisión. La interacción de tal cantidad de personas en horarios y lugares tan disimiles; hacen que la coordinación sea bastante complicada. Por eso la App consta con un sistema especial de mensajería instantanea conocido como las “Notas dinamicas”, gracias a las que se puede: Enviar un mensaje a destinatarios especificos programando la hora a la que le llegará el mensaje, tener un sistema de “chequeo” respecto al horario en que la nota fue leída, Permitir usar un sistema de “checklist” en una nota, con la intención de que la persona que lea la nota tenga que “tickear” las cajas en blanco; entre otras funciones.
+
+20.	Sistema de auto sugerencia de incorporación de mercaderías: Todos los días pasan clientes que preguntan por productos que no se comercializan en el Minimarket. Comumente, el encargado de turno considera que esto se trata de un “capricho” de la persona y esto, a veces puede ser así, pero no siempre. ¿Qué es lo que pasa si en todos los locales de una cadena todos los días pasan 20 personas preguntando por el producto X? Esto significa que el producto X debería ser incorporado a la mercadería del Minimarket. La App incorpora un sistema en que cada persona que trabaja en un local puede poner “cualquier producto” como “sugerencia de venta” creando un “boton” que puede marcar cualquier persona que tenga acceso a la App. Así, de manera electronica se podrá saber si un producto es requerido con gran frecuencia y, cuando esto ocurra, la App emitirá una alarma avisandole al administrador que sería conveniente incorporar ese producto a la mercadería del local. 
+
+21.	Sistema de auto sugerencia de mercaderías que habría que retirar: En todo minimarket existen algunas mercancías que se venden muy poco y que incluso generan más mermas que ventas. La App emite una alarma avisandole al administrador que sería conveniente retirar una determinada mercadería cuando observa que un producto tiene mucho sobre stock y/o genera mermas elevadas. 
+
+Estas son las funcionalidades que tiene la App Mi Minimarket en la versión disponible para los administradores de la panadería. Las funciones 22 a 26 están presentes en la versión para cliente de la App Mi Minimarket: 
+
+22.	Mis Alertas: Este es el primer cuadro que aparece en la App para el cliente. Aquí recibe las alertas que le envía el administrador, tales como “Ha llegado el Pan sin gluten” o “Pan recién salido del horno”.
+
+23.	Mi Local: Empleando esta función, el cliente puede ver cuál es el Minimarket de la cadena correspondiente que se encuentra más cercana a su actual ubicación geográfica. 
+
+24.	Mi Producto: Empleando esta función, el cliente puede buscar un producto determinado, verificando en tiempo real si es que se encuentra disponible en un local especifico de la cadena. 
+
+25.	Mi Oferta: El cliente recibe en la App los “anuncios de ofertas” que ha programado el administrador del Minimarket.
+
+26.	Mis Sugerencias: Es en este cuadro en que el cliente puede ingresar las “sugerencias” que luego serán leídas y analizadas por el administrador del Minimarket.
+
